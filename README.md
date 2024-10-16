@@ -1,4 +1,4 @@
-# Anoma-Data-
+# Anoma-Data
 
 Problem Statement:
 Many different industries need predictive maintenance solutions to reduce risks and gain actionable insights through processing data from their equipment.
